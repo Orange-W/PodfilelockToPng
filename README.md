@@ -1,7 +1,7 @@
-# ProfilelockToPng
-Reference relationship visualization.Transform Cocoapods's Pprofile.lock to png.
+# PodfilelockToPng
+Reference relationship visualization.Transform Cocoapods's Podfile.lock to png.
 
-![image](https://github.com/Orange-W/ProfilelockToPng/blob/master/output.dot.png)
+![image](https://github.com/Orange-W/PodfilelockToPng/blob/master/output.dot.png)
 
 ### Dependency
 To install dependency `graphviz`.
@@ -18,13 +18,13 @@ sh ./printlock.sh
 To aim the path file and output.file
 
 ```
-sh ./printlock.sh ./Profile.lock output.dot
+sh ./printlock.sh ./Podfile.lock output.dot
 ```
 
 ### What's more?
 You can hide te subspect Dependency.
-![image](https://github.com/Orange-W/ProfilelockToPng/blob/master/disableSubspec.dot.png)
+![image](https://github.com/Orange-W/PodfilelockToPng/blob/master/disableSubspec.dot.png)
 
 ```
-sh ./printlock.sh ./Profile.lock output.dot 1
+sh ./printlock.sh ./Podfile.lock output.dot 1
 ```
