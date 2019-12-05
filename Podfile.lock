@@ -1,0 +1,444 @@
+PODS:
+  - MMKV (1.0.23)
+  - OCCategories (0.1.7):
+    - OCCategories/no-arc (= 0.1.7)
+  - OCCategories/no-arc (0.1.7)
+  - OmgId4iOS (0.1.1):
+    - XXBaseKit (~> 1.0.4)
+  - Protobuf (3.9.2)
+  - XXXXData (0.1.3):
+    - XXSerialization
+  - XXXUAUIKit (0.2.1):
+    - XXAdaptiveUIKit (~> 2.1)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXThemeKit (~> 0.2)
+    - XXUIKit (~> 0.1.15)
+    - XXXLog (~> 0.2.0)
+    - XXYYWebImage (~> 0.1.4)
+  - XXXUAUIModuleFactory (2.0.0):
+    - XXXXData
+    - XXXUAUIKit (~> 0.2)
+    - XXXUAUIModuleFactory/BaseFactory (= 2.0.0)
+    - XXXUAUIModuleFactory/ChannelFactory (= 2.0.0)
+    - XXXUAUIModuleFactory/DetailFactory (= 2.0.0)
+    - XXXUAUIModuleFactory/DokiFactory (= 2.0.0)
+    - XXXUAUIModuleFactory/Events (= 2.0.0)
+    - XXXUAUIModuleFactory/Player (= 2.0.0)
+    - XXXUAUIModuleFactory/Report (= 2.0.0)
+    - XXXUAUIModuleFactory/VIPFactory (= 2.0.0)
+    - XXAdaptiveUIKit (~> 2.1)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXInterfaceConfig
+    - XXListKit (~> 0.2.2)
+    - XXMvvmKit (~> 3.0)
+    - XXPBData
+    - XXReactiveObjC (~> 1.0.0b)
+    - XXStyleSheetKit (~> 0.1.0)
+    - XXThemeKit (~> 0.2)
+    - XXUIKit
+    - XXXLog (~> 0.2.0)
+    - VideoFeedsPlay (~> 0.0.1)
+    - VideoReport (~> 1.1.3)
+  - XXXUAUIModuleFactory/BaseFactory (2.0.0):
+    - XXXXData
+    - XXXUAUIKit (~> 0.2)
+    - XXAdaptiveUIKit (~> 2.1)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXInterfaceConfig
+    - XXListKit (~> 0.2.2)
+    - XXMvvmKit (~> 3.0)
+    - XXPBData
+    - XXReactiveObjC (~> 1.0.0b)
+    - XXStyleSheetKit (~> 0.1.0)
+    - XXThemeKit (~> 0.2)
+    - XXUIKit
+    - XXXLog (~> 0.2.0)
+    - VideoFeedsPlay (~> 0.0.1)
+    - VideoReport (~> 1.1.3)
+  - XXXUAUIModuleFactory/ChannelFactory (2.0.0):
+    - XXXXData
+    - XXXUAUIKit (~> 0.2)
+    - XXXUAUIModuleFactory/BaseFactory
+    - XXAdaptiveUIKit (~> 2.1)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXInterfaceConfig
+    - XXListKit (~> 0.2.2)
+    - XXMvvmKit (~> 3.0)
+    - XXPBData
+    - XXReactiveObjC (~> 1.0.0b)
+    - XXStyleSheetKit (~> 0.1.0)
+    - XXThemeKit (~> 0.2)
+    - XXUIKit
+    - XXXLog (~> 0.2.0)
+    - VideoFeedsPlay (~> 0.0.1)
+    - VideoReport (~> 1.1.3)
+  - XXXUAUIModuleFactory/DetailFactory (2.0.0):
+    - XXXXData
+    - XXXUAUIKit (~> 0.2)
+    - XXXUAUIModuleFactory/BaseFactory
+    - XXAdaptiveUIKit (~> 2.1)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXInterfaceConfig
+    - XXListKit (~> 0.2.2)
+    - XXMvvmKit (~> 3.0)
+    - XXPBData
+    - XXReactiveObjC (~> 1.0.0b)
+    - XXStyleSheetKit (~> 0.1.0)
+    - XXThemeKit (~> 0.2)
+    - XXUIKit
+    - XXXLog (~> 0.2.0)
+    - VideoFeedsPlay (~> 0.0.1)
+    - VideoReport (~> 1.1.3)
+  - XXXUAUIModuleFactory/DokiFactory (2.0.0):
+    - XXXXData
+    - XXXUAUIKit (~> 0.2)
+    - XXXUAUIModuleFactory/BaseFactory
+    - XXAdaptiveUIKit (~> 2.1)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXInterfaceConfig
+    - XXListKit (~> 0.2.2)
+    - XXMvvmKit (~> 3.0)
+    - XXPBData
+    - XXReactiveObjC (~> 1.0.0b)
+    - XXStyleSheetKit (~> 0.1.0)
+    - XXThemeKit (~> 0.2)
+    - XXUIKit
+    - XXXLog (~> 0.2.0)
+    - VideoFeedsPlay (~> 0.0.1)
+    - VideoReport (~> 1.1.3)
+  - XXXUAUIModuleFactory/Events (2.0.0):
+    - XXXXData
+    - XXXUAUIKit (~> 0.2)
+    - XXXUAUIModuleFactory/BaseFactory
+    - XXAdaptiveUIKit (~> 2.1)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXInterfaceConfig
+    - XXListKit (~> 0.2.2)
+    - XXMvvmKit (~> 3.0)
+    - XXPBData
+    - XXReactiveObjC (~> 1.0.0b)
+    - XXStyleSheetKit (~> 0.1.0)
+    - XXThemeKit (~> 0.2)
+    - XXUIKit
+    - XXXLog (~> 0.2.0)
+    - VideoFeedsPlay (~> 0.0.1)
+    - VideoReport (~> 1.1.3)
+  - XXXUAUIModuleFactory/Player (2.0.0):
+    - XXXXData
+    - XXXUAUIKit (~> 0.2)
+    - XXAdaptiveUIKit (~> 2.1)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXInterfaceConfig
+    - XXListKit (~> 0.2.2)
+    - XXMvvmKit (~> 3.0)
+    - XXPBData
+    - XXReactiveObjC (~> 1.0.0b)
+    - XXStyleSheetKit (~> 0.1.0)
+    - XXThemeKit (~> 0.2)
+    - XXUIKit
+    - XXXLog (~> 0.2.0)
+    - VideoFeedsPlay (~> 0.0.1)
+    - VideoReport (~> 1.1.3)
+  - XXXUAUIModuleFactory/Report (2.0.0):
+    - XXXXData
+    - XXXUAUIKit (~> 0.2)
+    - XXAdaptiveUIKit (~> 2.1)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXInterfaceConfig
+    - XXListKit (~> 0.2.2)
+    - XXMvvmKit (~> 3.0)
+    - XXPBData
+    - XXReactiveObjC (~> 1.0.0b)
+    - XXStyleSheetKit (~> 0.1.0)
+    - XXThemeKit (~> 0.2)
+    - XXUIKit
+    - XXXLog (~> 0.2.0)
+    - VideoFeedsPlay (~> 0.0.1)
+    - VideoReport (~> 1.1.3)
+  - XXXUAUIModuleFactory/VIPFactory (2.0.0):
+    - XXXXData
+    - XXXUAUIKit (~> 0.2)
+    - XXXUAUIModuleFactory/BaseFactory
+    - XXAdaptiveUIKit (~> 2.1)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXInterfaceConfig
+    - XXListKit (~> 0.2.2)
+    - XXMvvmKit (~> 3.0)
+    - XXPBData
+    - XXReactiveObjC (~> 1.0.0b)
+    - XXStyleSheetKit (~> 0.1.0)
+    - XXThemeKit (~> 0.2)
+    - XXUIKit
+    - XXXLog (~> 0.2.0)
+    - VideoFeedsPlay (~> 0.0.1)
+    - VideoReport (~> 1.1.3)
+  - XXAdaptiveUIKit (2.1.2):
+    - XXAdaptiveUIKit/Trait (= 2.1.2)
+  - XXAdaptiveUIKit/Trait (2.1.2):
+    - XXAdaptiveUIKit/Util
+  - XXAdaptiveUIKit/Util (2.1.2)
+  - XXANKeyValue (0.1.1.1)
+  - XXBaseCore (0.2.3):
+    - OCCategories (~> 0.1.5)
+    - XXANKeyValue (~> 0.1.1)
+    - XXBaseCore/no-arc (= 0.2.3)
+    - XXBaseKit (~> 1.0.5)
+    - XXFMDB (~> 0.0.2)
+    - XXInterfaceConfig (~> 0.1.7)
+    - XXSerialization (~> 0.0.2)
+    - XXXLog (~> 0.2.0)
+    - XXYYWebImage (~> 0.1.4)
+    - ZipArchive (~> 0.1.4)
+  - XXBaseCore/no-arc (0.2.3):
+    - OCCategories (~> 0.1.5)
+    - XXANKeyValue (~> 0.1.1)
+    - XXBaseKit (~> 1.0.5)
+    - XXFMDB (~> 0.0.2)
+    - XXInterfaceConfig (~> 0.1.7)
+    - XXSerialization (~> 0.0.2)
+    - XXXLog (~> 0.2.0)
+    - XXYYWebImage (~> 0.1.4)
+    - ZipArchive (~> 0.1.4)
+  - XXBaseKit (1.0.6):
+    - OCCategories (~> 0.1.5)
+    - XXBaseKit/Addition (= 1.0.6)
+    - XXBaseKit/Base (= 1.0.6)
+    - XXBaseKit/Control (= 1.0.6)
+    - XXBaseKit/Data (= 1.0.6)
+    - XXBaseKit/EventBase (= 1.0.6)
+    - XXBaseKit/OS (= 1.0.6)
+    - XXBaseKit/QADGTMBase64 (= 1.0.6)
+    - XXBaseKit/Utils (= 1.0.6)
+  - XXBaseKit/Addition (1.0.6):
+    - OCCategories (~> 0.1.5)
+    - XXBaseKit/Addition/no-arc (= 1.0.6)
+  - XXBaseKit/Addition/no-arc (1.0.6):
+    - OCCategories (~> 0.1.5)
+    - XXBaseKit/QADGTMBase64
+  - XXBaseKit/Base (1.0.6):
+    - OCCategories (~> 0.1.5)
+    - XXBaseKit/OS
+  - XXBaseKit/Control (1.0.6):
+    - OCCategories (~> 0.1.5)
+    - XXBaseKit/Base
+  - XXBaseKit/Data (1.0.6):
+    - OCCategories (~> 0.1.5)
+  - XXBaseKit/EventBase (1.0.6):
+    - OCCategories (~> 0.1.5)
+  - XXBaseKit/OS (1.0.6):
+    - OCCategories (~> 0.1.5)
+  - XXBaseKit/QADGTMBase64 (1.0.6):
+    - OCCategories (~> 0.1.5)
+  - XXBaseKit/Utils (1.0.6):
+    - OCCategories (~> 0.1.5)
+    - XXBaseKit/Addition
+  - XXFMDB (0.0.2)
+  - XXHttpDataRequest (0.1.1-PureASI):
+    - XXHttpDataRequest/no-arc (= 0.1.1-PureASI)
+  - XXHttpDataRequest/no-arc (0.1.1-PureASI)
+  - XXHttpNetworkRequest (0.1.1-PureASI):
+    - XXHttpDataRequest (= 0.1.1-PureASI)
+  - XXInterfaceConfig (0.1.12)
+  - XXSerialization (0.0.3b)
+  - XXKV (0.2.2):
+    - MMKV (~> 1.0.22)
+    - XXKV/Core (= 0.2.2)
+  - XXKV/Core (0.2.2):
+    - MMKV (~> 1.0.22)
+  - XXListKit (0.2.5):
+    - XXListKit/Default (= 0.2.5)
+  - XXListKit/Common (0.2.5)
+  - XXListKit/Default (0.2.5):
+    - XXListKit/Common
+    - XXListKit/Layout
+  - XXListKit/Layout (0.2.5):
+    - XXListKit/Common
+  - XXMvvmKit (3.1.1):
+    - XXListKit (~> 0.2)
+  - XXNetworkProtocolPackage (0.0.1):
+    - XXXXData (~> 0.0)
+    - XXSerialization (~> 0.0.2)
+    - XXPBData (~> 0.0)
+  - XXPBData (0.0.12):
+    - Protobuf (= 3.9.2)
+  - XXReactiveObjC (1.0.0b)
+  - XXStyleSheetKit (0.1.0):
+    - XXInterfaceConfig (~> 0.1.1)
+    - XXKV (~> 0.2.2)
+    - XXPBData
+  - XXThemeKit (0.2.1)
+  - XXUIKit (0.1.18):
+    - OCCategories (~> 0.1.5)
+    - XXBaseCore (~> 0.2.0)
+    - XXBaseKit (~> 1.0.5)
+    - XXFMDB (~> 0.0.2)
+    - XXThemeKit (~> 0.2.0)
+    - XXXLog (~> 0.2.0)
+    - XXYYWebImage (~> 0.1.4)
+  - XXXLog (0.2.0):
+    - XXXLog/QLLogger (= 0.2.0)
+    - XXXLog/Utils (= 0.2.0)
+    - XXXLog/XXXLogger (= 0.2.0)
+    - XXXLog/XLog (= 0.2.0)
+    - ZipArchive (~> 0.1.4)
+  - XXXLog/QLLogger (0.2.0):
+    - XXXLog/Utils
+    - XXXLog/XXXLogger
+    - ZipArchive (~> 0.1.4)
+  - XXXLog/Utils (0.2.0):
+    - ZipArchive (~> 0.1.4)
+  - XXXLog/XXXLogger (0.2.0):
+    - XXXLog/XLog
+    - ZipArchive (~> 0.1.4)
+  - XXXLog/XLog (0.2.0):
+    - ZipArchive (~> 0.1.4)
+  - XXYYWebImage (0.1.4):
+    - XXYYWebImage/Cache (= 0.1.4)
+    - XXYYWebImage/Image (= 0.1.4)
+  - XXYYWebImage/Cache (0.1.4)
+  - XXYYWebImage/Image (0.1.4):
+    - XXYYWebImage/Image/SharpP (= 0.1.4)
+    - XXYYWebImage/Image/WebP (= 0.1.4)
+  - XXYYWebImage/Image/SharpP (0.1.4)
+  - XXYYWebImage/Image/WebP (0.1.4)
+  - VideoFeedsPlay (0.0.13)
+  - VideoReport (1.1.8)
+  - ZipArchive (0.1.4.1)
+
+DEPENDENCIES:
+  - OCCategories (= 0.1.7)
+  - OmgId4iOS (= 0.1.1)
+  - XXXXData (from `http://xx.xx.xx.com/SharedKit/XXXXData.git`, commit `42eb8f2250bf91ab8f45ddd1a01d5b22dd2d1cf6`)
+  - XXXUAUIKit (from `https://xx.xx.xx.com/SharedKit/XXXUAUIKit.git`, commit `d5773bdfbeb2ec80c022fb2c819a0fd33fbcbd2e`)
+  - XXXUAUIModuleFactory (from `../components/XXXUAUIModuleFactory`)
+  - XXAdaptiveUIKit (= 2.1.2)
+  - XXANKeyValue (= 0.1.1.1)
+  - XXBaseCore (= 0.2.3)
+  - XXBaseKit (= 1.0.6)
+  - XXFMDB (= 0.0.2)
+  - XXHttpNetworkRequest (= 0.1.1-PureASI)
+  - XXInterfaceConfig (= 0.1.12)
+  - XXSerialization (= 0.0.3b)
+  - XXKV (= 0.2.2)
+  - XXListKit (= 0.2.5)
+  - XXMvvmKit (= 3.1.1)
+  - XXNetworkProtocolPackage (from `https://xx.xx.xx.com/SharedKit/XXNetworkProtocolPackage.git`, commit `46fbb08f593f34b6ce32984f5ff795de9942a4b8`)
+  - XXPBData (from `https://xx.xx.xx.com/SharedKit/XXPBData.git`, commit `c3804fa9e6f7a80ee0354deb4c4852496616d167`)
+  - XXReactiveObjC (= 1.0.0b)
+  - XXStyleSheetKit (= 0.1.0)
+  - XXThemeKit (= 0.2.1)
+  - XXUIKit (from `https://xx.xx.xx.com/SharedKit/XXUIKit.git`, commit `592f7a983a941477695dd568b0607ff467005751`)
+  - XXXLog (~> 0.2.0)
+  - XXYYWebImage (= 0.1.4)
+  - VideoReport (= 1.1.8)
+  - ZipArchive (= 0.1.4.1)
+
+SPEC REPOS:
+  http://xx.xx.xx.com/SharedKit/VideoBase.git:
+    - OCCategories
+    - OmgId4iOS
+    - XXAdaptiveUIKit
+    - XXANKeyValue
+    - XXBaseCore
+    - XXBaseKit
+    - XXFMDB
+    - XXHttpDataRequest
+    - XXHttpNetworkRequest
+    - XXInterfaceConfig
+    - XXSerialization
+    - XXKV
+    - XXListKit
+    - XXMvvmKit
+    - XXReactiveObjC
+    - XXStyleSheetKit
+    - XXThemeKit
+    - XXXLog
+    - XXYYWebImage
+    - VideoFeedsPlay
+    - VideoReport
+    - ZipArchive
+  https://github.com/CocoaPods/Specs.git:
+    - MMKV
+    - Protobuf
+
+EXTERNAL SOURCES:
+  XXXXData:
+    :commit: 42eb8f2250bf91ab8f45ddd1a01d5b22dd2d1cf6
+    :git: http://xx.xx.xx.com/SharedKit/XXXXData.git
+  XXXUAUIKit:
+    :commit: d5773bdfbeb2ec80c022fb2c819a0fd33fbcbd2e
+    :git: https://xx.xx.xx.com/SharedKit/XXXUAUIKit.git
+  XXXUAUIModuleFactory:
+    :path: "../components/XXXUAUIModuleFactory"
+  XXNetworkProtocolPackage:
+    :commit: 46fbb08f593f34b6ce32984f5ff795de9942a4b8
+    :git: https://xx.xx.xx.com/SharedKit/XXNetworkProtocolPackage.git
+  XXPBData:
+    :commit: c3804fa9e6f7a80ee0354deb4c4852496616d167
+    :git: https://xx.xx.xx.com/SharedKit/XXPBData.git
+  XXUIKit:
+    :commit: 592f7a983a941477695dd568b0607ff467005751
+    :git: https://xx.xx.xx.com/SharedKit/XXUIKit.git
+
+CHECKOUT OPTIONS:
+  XXXXData:
+    :commit: 42eb8f2250bf91ab8f45ddd1a01d5b22dd2d1cf6
+    :git: http://xx.xx.xx.com/SharedKit/XXXXData.git
+  XXXUAUIKit:
+    :commit: d5773bdfbeb2ec80c022fb2c819a0fd33fbcbd2e
+    :git: https://xx.xx.xx.com/SharedKit/XXXUAUIKit.git
+  XXNetworkProtocolPackage:
+    :commit: 46fbb08f593f34b6ce32984f5ff795de9942a4b8
+    :git: https://xx.xx.xx.com/SharedKit/XXNetworkProtocolPackage.git
+  XXPBData:
+    :commit: c3804fa9e6f7a80ee0354deb4c4852496616d167
+    :git: https://xx.xx.xx.com/SharedKit/XXPBData.git
+  XXUIKit:
+    :commit: 592f7a983a941477695dd568b0607ff467005751
+    :git: https://xx.xx.xx.com/SharedKit/XXUIKit.git
+
+SPEC CHECKSUMS:
+  MMKV: 031ae51aedc0af1b250922f7ed8a6b6ee2f94c4c
+  OCCategories: 45df0763e6308388abb2cece760fc4340025bc64
+  OmgId4iOS: 874c9fc5e0a340625731bf8492dc43c5d2c2d5b7
+  Protobuf: 67fb42ba613def994e61854de2b3164f13790cc4
+  XXXXData: 153934894570ffa59d549b774c154d5aff7ce00e
+  XXXUAUIKit: 3f7057d957641d283c06e6f5dd22ce793990aed1
+  XXXUAUIModuleFactory: f7bec89dc0f3dcc67bb0f14eed769dc341fcf269
+  XXAdaptiveUIKit: 06397ded6b3abedb70bc2e7efbdb32718d812232
+  XXANKeyValue: aceedeed862675762780b7d1147f3c9e7ea4d346
+  XXBaseCore: bc3f736d4dc8ce4259c5996cff274f75629d88d1
+  XXBaseKit: 285817792985614030ce5353e12d843d2832f056
+  XXFMDB: 6a6ef17bad0dd281c85ee5b96f5eea9d97596d6d
+  XXHttpDataRequest: 2868d27fcec529c0ff8039fb1329a6fabfa30266
+  XXHttpNetworkRequest: e272aa6c1109cfb42ab1af6d5cd1512fd887f9cc
+  XXInterfaceConfig: 6d28e06a0ae24913a40fd33bb2d785f7bf275633
+  XXSerialization: 9fae7496d9414364149dd1e96eab8f93178578f4
+  XXKV: d6d3e2c670dee0e2d45b0a66999169dadf8b83df
+  XXListKit: bcd6ede40494153650eeb2c9d934c0bc8dba5ef6
+  XXMvvmKit: d2741797d1931a8e9c23f8f9a93a2603dad39aa2
+  XXNetworkProtocolPackage: 9eeaba48316863de8961d171ffd6bb175838b492
+  XXPBData: 0208654d69dde6e2ff8de0899fe8a145e623f0f8
+  XXReactiveObjC: 9447fea1754f8b39d22c1ddec761c47c6cc62dd4
+  XXStyleSheetKit: 936323938778dbd371e56f4ead605901e5ee1209
+  XXThemeKit: 3695c4cdf59973baa5e38face9c9dd910af04aa7
+  XXUIKit: d17c90730c0e65848dc0139f79204ebd8e2dc4e6
+  XXXLog: 7a93b9c6b0f1472ce898cc9a751773ed2715a787
+  XXYYWebImage: 46848b5cedf61c4d8f92bd3c1ad9d474b3f46137
+  VideoFeedsPlay: 27385a411ff88dfbcc52a53f869e6a69d3385ecf
+  VideoReport: 58191956cba16dc2dec4521ead4e091f77364f2c
+  ZipArchive: 1a5c6d0018b52ae3ba5a0ae7d7fdcb9a57177759
+
+PODFILE CHECKSUM: 3a2b675057cf9ee7ef0c35d2b311b1d3562b41e0
+
+COCOAPODS: 1.8.4
