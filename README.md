@@ -5,7 +5,7 @@ Reference relationship visualization.Transform Cocoapods's Pprofile.lock to png.
 
 ### Dependency
 To install dependency `graphviz`.
-[go now](https://graphviz.gitlab.io/download/)
+[go now >>](https://graphviz.gitlab.io/download/)
 
 ### How to use
 
@@ -15,7 +15,7 @@ Just run script.
 sh ./printlock.sh
 ```
 
-Or aim path file , output.file
+To aim the path file and output.file
 
 ```
 sh ./printlock.sh ./Profile.lock output.dot
