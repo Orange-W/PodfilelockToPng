@@ -5,7 +5,7 @@ Reference relationship visualization.Transform Cocoapods's Pprofile.lock to png.
 
 ### Dependency
 To install dependency `graphviz`.
-![addr](https://graphviz.gitlab.io/download/)
+[addr](https://graphviz.gitlab.io/download/)
 
 ### How to use
 
