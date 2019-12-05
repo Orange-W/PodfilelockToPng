@@ -1,11 +1,11 @@
 # ProfilelockToPng
 Reference relationship visualization.Transform Cocoapods's Pprofile.lock to png.
 
-!(image)[https://github.com/Orange-W/ProfilelockToPng/blob/master/output.dot.png]
+![image](https://github.com/Orange-W/ProfilelockToPng/blob/master/output.dot.png)
 
 ### Dependency
 To install dependency `graphviz`.
-!(addr)[https://graphviz.gitlab.io/download/]
+![addr](https://graphviz.gitlab.io/download/)
 
 ### How to use
 
@@ -23,7 +23,7 @@ sh ./printlock.sh ./Profile.lock output.dot
 
 ### What's more?
 You can hide te subspect Dependency.
-!(image)[https://github.com/Orange-W/ProfilelockToPng/blob/master/disableSubspec.dot.png]
+![image](https://github.com/Orange-W/ProfilelockToPng/blob/master/disableSubspec.dot.png)
 
 ```
 sh ./printlock.sh ./Profile.lock output.dot 1
