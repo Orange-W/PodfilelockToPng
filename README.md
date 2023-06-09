@@ -31,7 +31,3 @@ You can hide te subspect Dependency.
 sh ./printlock.sh -i ./Podfile.lock -o output.dot  -n
 ```
 
-only show AFNetworking Dependency, use --only.( -n will invalid)
-```
-sh ./printlock.sh -i ./Podfile.lock -o output.dot  --only AFNetworking
-```
