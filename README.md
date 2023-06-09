@@ -18,7 +18,7 @@ sh ./printlock.sh
 To aim the path file and output.file
 
 ```
-sh ./printlock.sh ./Podfile.lock output.dot
+sh ./printlock.sh -i ./Podfile.lock -o output.dot
 ```
 
 ### What's more?
@@ -26,5 +26,10 @@ You can hide te subspect Dependency.
 ![image](https://github.com/Orange-W/PodfilelockToPng/blob/master/disableSubspec.dot.png)
 
 ```
-sh ./printlock.sh ./Podfile.lock output.dot 1
+sh ./printlock.sh -i ./Podfile.lock -o output.dot  -n
+```
+
+only show AFNetworking Dependency, use --only.( -n will invalid)
+```
+sh ./printlock.sh -i ./Podfile.lock -o output.dot  --only AFNetworking
 ```
