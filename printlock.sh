@@ -61,7 +61,8 @@ do
   OLD_IFS="$IFS"
   IFS=' '
   array=($line)
-  count=$(echo "$line" | awk '{str=length($0); sub(/^[ ]*/,"",$0); print str-length($0);}')
+  spaces=$(echo "$line" | grep -o '^ *')
+  count=${#spaces}
   
   # 确定依赖与被依赖对象
   if [[ $line =~ ":" || $count -eq "2" ]] ; then
