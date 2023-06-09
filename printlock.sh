@@ -67,7 +67,7 @@ do
   if [[ $line =~ ":" || $count -eq "2" ]] ; then
     A=${array[1]}
 
-    [[ -n "$onlyName" && "$A" != "$onlyName" ]] && continue  # 只解析指定名称的依赖
+#     [[ -n "$onlyName" && "$A" != "$onlyName" ]] && continue  # 只解析指定名称的依赖
     [[ disableSubLine -eq 1 && $A =~ "/" ]] && continue # 不显示子组件依赖
     echo '"'$A'"[shape=box]' >> $output
   else
@@ -79,7 +79,7 @@ do
 
     if [[ $A != '' ]]; then
       [[ $B =~ "/" || $A =~ "/" ]] && lineColor="black" && style="dotted"
-      [[ -n "$onlyName" && "$A" != "$onlyName" ]] && continue  # 只解析指定名称的依赖
+#       [[ -n "$onlyName" && "$A" != "$onlyName" ]] && continue  # 只解析指定名称的依赖
       echo '"'$A'"'  '->'  "\"$B\"[color=$lineColor, shape=box, style=$style]" >> $output
     else 
       echo '"'$B'"[shape=box]' >> $output
