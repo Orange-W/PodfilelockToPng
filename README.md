@@ -5,7 +5,9 @@ Reference relationship visualization.Transform Cocoapods's Podfile.lock to png.
 
 ### Dependency
 To install dependency `graphviz`.
-[go now >>](https://graphviz.gitlab.io/download/)
+```
+brew install graphviz
+```
 
 ### How to use
 
